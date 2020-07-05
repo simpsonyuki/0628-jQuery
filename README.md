@@ -10,11 +10,12 @@ jQuery計數器
 ```
 2. CDN 計數器js:
 ```
-https://github.com/simpsonyuki/0628-jQuery/blob/master/js/main.js
+<script src="https://github.com/simpsonyuki/0628-jQuery/blob/master/js/main.js
+">
 ```
 3. 參數說明
 ```
 data-counter-number="最終數值"
 data-counter-duration="執行時間"
-data-counter-offset="上方位移"
+data-counter-offset="上方位移" - 數字越大越早執行
 ```
