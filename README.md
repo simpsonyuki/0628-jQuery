@@ -10,7 +10,7 @@ jQuery計數器
 ```
 2. CDN 計數器js:
 ```
-<script src="https://github.com/simpsonyuki/0628-jQuery/blob/master/js/main.js"></script>
+<script src="https://simpsonyuki.github.io/0628-jQuery/js/main.js"></script>
 ```
 3. 參數說明
 ```
